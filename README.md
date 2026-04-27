@@ -1,30 +1,24 @@
+<!-- Header wave — colorArr cycles through colors automatically on each render -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=bakamono12%20—%20README.md&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+</div>
+
 <!-- ① Animated terminal typing line — works on GitHub via external SVG service -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=3FB950&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=visitor%40github%3A~%24+cat+profile.sh+%7C+bash;Python+Developer+%C2%B7+Odoo+Specialist+%C2%B7+Mumbai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 </div>
 
-<!-- Hero row -->
-<table>
-<tr>
-<td>
-
+<!-- Hero — full width, no avatar column (avatar already visible in GitHub sidebar) -->
 ### Abhishek Pathak
-`@bakamono12` &nbsp;·&nbsp; [baka-dev.com](https://baka-dev.com)
+`@bakamono12` &nbsp;·&nbsp; [baka-dev.com](https://baka-dev.com) &nbsp;·&nbsp; Mumbai, India 🇮🇳
 
-**Python Developer · Odoo Specialist · Mumbai, India 🇮🇳**
+**Python Developer &nbsp;·&nbsp; Odoo Specialist &nbsp;·&nbsp; Freelancer &nbsp;·&nbsp; Ambivert**
 
 ![Python](https://img.shields.io/badge/Python-0d2a18?style=flat-square&logo=python&logoColor=3fb950)
 ![Odoo](https://img.shields.io/badge/Odoo%20ERP-0d2035?style=flat-square&logo=odoo&logoColor=58a6ff)
 ![AI/LLMs](https://img.shields.io/badge/AI%20%2F%20LLMs-1c1040?style=flat-square&logo=openai&logoColor=a78bfa)
 ![Freelance](https://img.shields.io/badge/Freelance-2a1f00?style=flat-square&logo=freelancer&logoColor=e3b341)
 ![Mumbai](https://img.shields.io/badge/Mumbai%20🇮🇳-2a0d0d?style=flat-square&logoColor=f78166)
-
-</td>
-<td align="right">
-  <img src="https://avatars.githubusercontent.com/u/59910207?v=4" width="100" style="border-radius:10px"/>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -186,9 +180,9 @@ currently = {
 
 </div>
 
-<!-- Footer wave -->
+<!-- Footer wave — matches header cycling animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer&animation=twinkling"/>
 </div>
 
 ---
